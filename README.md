@@ -1,1 +1,4 @@
 # Logistic-Regression
+
+In this project, the data is downloaded from https://ucdenver.instructure.com/courses/371877/files/6479944/download?verifier=ZdlNzJMzusgMqyzxUbt7uM4ZKAPFYv5VdPfJylkl&wrap=1 and loaded into the memory and each categorical variables are converted into the numerical values. After converting into numerical values, logistic regression is implemented with cost function. Logistic Regression is implemented based on Batch Gradient Algorithm. 10-fold cross validation is performed on training dataset and accuracy, precision and F1-score for each fold is reported. Using the developed model, training data set is evaluated and accuracy, precision, and F1-score are reported. Using the same dataset Min-Max scaling is performed and the same process is repeated. Also with the regularized logistic regression is also performed with the dataset. 
+
